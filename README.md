@@ -9,7 +9,7 @@ I mostly use C++ and rarely Python for Competitive Programming
 
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=TungHoangGia&show_icons=true&theme=dark) | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TungHoangGia&theme=dark) |
 | --- | --- |
-| ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TungHoang&theme=tokyonight&layout=compact) | ![My Github Stars](https://github-readme-stats.vercel.app/api?username=TungHoangGia&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TungHoangGia&theme=tokyonight&layout=compact) | ![My Github Stars](https://github-readme-stats.vercel.app/api?username=TungHoangGia&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <br>
