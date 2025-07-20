@@ -2,7 +2,7 @@
 
 I'm a high schooler at THPT Chuyen Khoa Hoc Tu Nhien - HSGS.
 
-I mostly use C++ and rarely Python for Competitive Programming
+I mostly can use C++(a bit mostly for cp) and python.
 
 <br>
   <br>
