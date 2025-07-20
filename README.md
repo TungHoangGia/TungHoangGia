@@ -2,7 +2,7 @@
 
 I'm a high schooler at THPT Chuyen Khoa Hoc Tu Nhien - HSGS.
 
-I mostly can use C++(a bit mostly for cp) and python.
+I can use C++(a bit mostly for cp), python and a very bit of javascript.
 
 <br>
   <br>
